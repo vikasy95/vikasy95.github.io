@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Build artifacts
+pdfs/
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+extract_images.py
